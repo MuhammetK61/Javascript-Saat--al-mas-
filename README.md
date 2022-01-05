@@ -1,4 +1,4 @@
-# Javascript-Saat-Calimasi
+# Javascript-Saat-Calismasi
 Js dosyasındaki promt kısmı ile önce kullanıcıdan isim bilgisini alıp html kısmında bulunan metnin uygun yerine ekler daha sonra tam o anki saati ekranda belirtir.
 
 # Ekran Goruntusu
